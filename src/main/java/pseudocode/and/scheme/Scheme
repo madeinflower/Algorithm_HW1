@@ -1,0 +1,19 @@
+Start
+  |
+  V
+[Enter num1]
+  |
+  V
+[Enter num2]
+  |
+  V
+[Enter num3]
+  |
+  V
+[sum = num1 + num2 + num3]
+  |
+  V
+[Show sum]
+  |
+  V
+End
